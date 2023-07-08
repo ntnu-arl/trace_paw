@@ -1,2 +1,2 @@
 # trace_paw
-Repository for Terrain Recognition and Contact Force Estimation through Sensorized Legged Robot Paw
+Repository for our work on Terrain Recognition and Contact Force Estimation through a Sensorized Paw for Legged Robots
