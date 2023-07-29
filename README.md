@@ -1,5 +1,4 @@
 # Terrain Recognition And Contact force Estimation Paw
-> private repo for pre-release
 
 ### Introduction
 TRACEPaw is a compact and sensorized paw for legged robots, utilizing silicon deformation, an embedded micro camera, and a microphone to estimate 3D force vectors and recognize terrain types in real-time, helping the robot to adapt their locomotion strategies.
