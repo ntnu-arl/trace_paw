@@ -10,6 +10,7 @@ This repository serves as the central hub for the TRACEPaw, containing the sourc
 The [Wiki](https://github.com/ntnu-arl/trace_paw/wiki) is the primary source of documentation for TRACEPaw. It contains comprehensive information on the following topics:
 - Mechanical Design & Electronics: Comprises CAD files, assembly instructions, and manufacturing guidelines, along with a comprehensive list of electronic components needed for TRACEPaw.
 - Software Setup: Guide to set up the software environment for TRACEPaw, including instructions on data collection, model training & visualization, and the deployment process.
+- Training and test datasets for the vision-based force estimation and audio-based terrain classification capabilities of TRACEPaw. 
 
 ### Contact
 Please contact us for any question:
